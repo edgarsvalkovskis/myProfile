@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 section {
     height: 500px;
     background-color: white;
@@ -39,4 +40,43 @@ li {
 
 h1 {
     font-size: 100px;
+=======
+section {
+    height: 500px;
+    background-color: white;
+    border: solid black 1px;
+}
+
+
+
+.hero { 
+    background-color: #1c1d25;
+    height: 100vh;
+    color: white;
+    font-size: 40px;
+
+}
+
+footer {
+   height: 500px;
+   background-color: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+li {
+    
+    text-decoration: none;
+>>>>>>> 9095a31c0fdfee8235392c5f33e8faff551ecb2c
 }
