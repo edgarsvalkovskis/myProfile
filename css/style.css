@@ -40,7 +40,7 @@ li {
 
 h1 {
     font-size: 100px;
-=======
+}
 section {
     height: 500px;
     background-color: white;
@@ -78,5 +78,8 @@ ul {
 li {
     
     text-decoration: none;
->>>>>>> 9095a31c0fdfee8235392c5f33e8faff551ecb2c
+}
+
+h1 {
+    font-size: 90px; 
 }
