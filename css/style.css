@@ -87,13 +87,14 @@ li {
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 90px;
     margin: 0px;
 }
 
 p {
     margin: 0px;
-    font-weight: 600px;
+    font-size: 30px;
+    font-weight: 300px;
 }
 
 .hero-text {
@@ -103,11 +104,20 @@ p {
 
 
 .button {
+   
     background-color: purple;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300px;
     border-radius: 30px;
     color: #fff;
     display: inline-block;
     font-family: sans-serif;
-    padding: 15px 20px 14px;
+    padding: 12px 15px 12px;
     text-decoration: none;
+    
+    
+   
+    
+   
 }
