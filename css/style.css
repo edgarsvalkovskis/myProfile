@@ -90,6 +90,8 @@ h1 {
 
 .button {
     width: 200px;
-    height: 100px;
+    height: 80px;
+    border-radius: 40px;
     background-color: coral;
+    text-align: center;
 }
