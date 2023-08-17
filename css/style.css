@@ -87,12 +87,13 @@ li {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 100px;
     margin: 0px;
 }
 
 p {
     margin: 0px;
+    font-weight: 600px;
 }
 
 .hero-text {
