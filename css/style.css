@@ -106,7 +106,7 @@ p {
 
 .hero-text {
     margin-left: 80px;
-    margin-bottom: 450px;
+    margin-bottom: 200px;
 
 }
 
@@ -124,9 +124,16 @@ p {
     font-family: sans-serif;
     padding: 12px 15px 12px;
     text-decoration: none;
-    
-    
-   
-    
-   
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.button:active {
+    background-color: green;
+    color: grey;
+    cursor: pointer;
 }
