@@ -97,8 +97,17 @@ p {
     font-weight: 300px;
 }
 
+.hero-area {
+    display: flex;
+    flex-direction: column;
+    height: 100%; 
+    justify-content: center;
+}
+
 .hero-text {
     margin-left: 80px;
+    margin-bottom: 450px;
+
 }
 
 
