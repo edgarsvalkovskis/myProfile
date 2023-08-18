@@ -53,6 +53,12 @@ section {
     border: solid black 1px;
 }
 
+.sub-section-alternative {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+}
 
 nav {
     display: flex;
