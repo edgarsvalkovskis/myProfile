@@ -150,3 +150,8 @@ p {
 .social {
     margin: 10px;
 }
+
+
+.sub-section {
+    display: flex;
+}
