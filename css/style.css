@@ -102,6 +102,7 @@ p {
 .subtext {
     font-size: 15px;
     font-weight: 300px;
+    margin: 0px;
 
 }
 
@@ -172,7 +173,7 @@ p {
     box-shadow: 5px 5px 20px grey;
 }
 
-.project-contaier {
+.project-container {
     display: flex;
     justify-content: space-around;
 }
