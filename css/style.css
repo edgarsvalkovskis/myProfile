@@ -54,20 +54,6 @@ section {
 }
 
 
-
-.hero {
-    background-color: #1c1d25;
-    height: 100vh;
-    color: white;
-    font-size: 40px;
-
-}
-
-footer {
-    height: 500px;
-    background-color: black;
-}
-
 nav {
     display: flex;
     justify-content: space-between;
@@ -91,6 +77,10 @@ h1 {
     margin: 0px;
 }
 
+h2 {
+    font-size: 50px;
+}
+
 p {
     margin: 0px;
     font-size: 30px;
@@ -99,7 +89,7 @@ p {
 
 .hero-area {
     display: flex;
-    height: 100%; 
+    height: 100%;
     justify-content: space-between;
     align-items: center;
 }
@@ -113,7 +103,7 @@ p {
 
 
 .button {
-   
+
     background-color: purple;
     text-align: center;
     font-size: 30px;
@@ -154,4 +144,17 @@ p {
 
 .sub-section {
     display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+.project-card {
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.project-contaier {
+    display: flex;
+    justify-content: space-around;
 }
