@@ -119,6 +119,10 @@ p {
 
 }
 
+.footer-text {
+    color: white;
+}
+
 
 
 .button {
@@ -181,4 +185,9 @@ p {
 .project-image {
     width: 200px;
 
+}
+
+a {
+    text-decoration: 0px;
+    color: white;
 }
